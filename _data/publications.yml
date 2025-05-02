@@ -6,6 +6,7 @@
   image: FORESEER_fig.jpg
   image_mouseover: illuminerf_after.mp4
   video: https://www.youtube.com/watch?v=1sLnpcTjXg4&list=PLaSQ4X8BD0X5O-QmBGUQ7n5tqOcbX2oiE
+  link_web: https://sites.google.com/view/buaa-foresser
   authors:
     - jindou
     - kexin
@@ -25,6 +26,7 @@
   github: JIAjindou/Feedback-neural-network
   image: feedbackNN_fig.png
   arxiv: 2410.10253
+  link_web: https://openreview.net/forum?id=cmfyMV45XO
   authors:
     - jindou
     - zihan
@@ -41,6 +43,8 @@
   venue: IEEE Transactions on Robotics (T-RO), 2024
   description: "We present a framework, namely EVOLVER, to mimic the bio-behavior for robotics to achieve rapid transient reaction ability and high precision steady-state performance simultaneously."
   project_page: https://sites.google.com/view/buaa-evolver
+  video: https://www.youtube.com/watch?v=1t8NqQ5C3Co
+  link_web: https://ieeexplore.ieee.org/document/10288520
   image: EVOLVER_fig.png
   image_mouseover: reconfusion_after.mp4
   authors:
@@ -56,6 +60,8 @@
   title: "Accurate high-maneuvering trajectory tracking for quadrotors: A drag utilization method"
   venue: IEEE Robotics and Automation Letters (R-AL), 2022
   description: "Different from standard approaches that achieve precise tracking by feedforward compensating the estimated drag, this work presents a scheme to appropriately utilize drag."
+  video: https://www.youtube.com/watch?v=qO8A6lwCxMU
+  link_web: https://ieeexplore.ieee.org/document/9779449
   image: RAL_fig.png
   image_mouseover: camp_after.mp4
   authors:
@@ -69,6 +75,8 @@
   title: "Agile flight control under multiple disturbances for quadrotor: Algorithms and evaluation"
   venue: IEEE Transactions on Aerospace and Electronic Systems (T-AES), 2022
   description: "A scheme of anti-disturbance agile flight control is developed for a maneuverable quadrotor unmanned aerial vehicle, subject to the aerodynamic drag, dynamic shift of center of gravity, and motor dynamics."
+  video: https://www.youtube.com/watch?v=XTn65xUlLwk
+  link_web: https://ieeexplore.ieee.org/document/9684676
   image: TAES_fig.jpg
   image_mouseover: hypernerf_after.mp4
   authors:
@@ -82,6 +90,8 @@
   title: "Multiple observers-based anti-disturbance control for a quadrotor UAV against payload and wind disturbance"
   venue: Control Engineering Practice, 2020
   description: "This paper presents a multiple observers-based anti-disturbance control scheme against multiple disturbances for a quadrotor unmanned aerial vehicle."
+  video: https://www.youtube.com/watch?v=JW1uu8PoNPA
+  link_web: https://www.sciencedirect.com/science/article/pii/S0967066120301544
   image: CEP_fig.png
   authors:
     - kexin
@@ -94,6 +104,8 @@
   title: "Flight control for quadrotor safety in the presence of CoG shift and loss of motor efficiency"
   venue:  International Conference on Unmanned Aircraft Systems (ICUAS), 2022
   description: "A safety control strategy based on a novel nonlinear disturbance observer and geometric control is developed for a quadrotor unmanned aerial vehicle, subject to the disturbances caused by center-of-gravity shift and loss of motor efficiency."
+  video: https://www.youtube.com/watch?v=lHA8qYbLiac
+  link_web: https://ieeexplore.ieee.org/document/9836202
   image: ICUAS_fig.png
   image_mouseover: nerfies_after.mp4
   authors:
@@ -110,6 +122,8 @@
   title: "Dual-disturbance observers-based control of UAV subject to internal and external disturbances"
   venue: China Automation Conference, 2019
   description: "This paper presents an embedded micro loop to enhance the anti-disturbance performance for unmanned aerial vehicles."
+  video: https://www.youtube.com/watch?v=jDj2mIrms-A
+  link_web: https://ieeexplore.ieee.org/document/8997330
   image: CAC_fig.png
   image_mouseover: latentfusion_after.mp4
   authors:
