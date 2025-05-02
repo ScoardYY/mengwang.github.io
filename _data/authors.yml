@@ -22,19 +22,15 @@ lei:
 jiayi:
   first_name: Jiayi
   last_name: Zhang
-  website: 
 yuyang:
   first_name: Yuyang
   last_name: Wang
-  website:
 meng:
   first_name: Meng
   last_name: Wang
-  website:
 wenyu:
   first_name: Wenyu
   last_name: Zhang
-  website:
 yang:
   first_name: Yang
   last_name: Shi
@@ -50,19 +46,15 @@ jianfei:
 yuhang:
   first_name: Yuhang
   last_name: Liu
-  website: 
 sicheng:
   first_name: Sicheng
   last_name: Zhou
-  website: 
 bin:
   first_name: Bin
   last_name: Yang
-  website:
 jianliang:
   first_name: Jianliang
   last_name: Wang
-  website: 
 bmild:
   first_name: Ben
   last_name: Mildenhall
