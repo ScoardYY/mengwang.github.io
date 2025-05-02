@@ -55,7 +55,9 @@ bin:
 jianliang:
   first_name: Jianliang
   last_name: Wang
-bmild:
-  first_name: Ben
-  last_name: Mildenhall
-  website: https://bmild.github.io
+ning:
+  first_name: Ning
+  last_name: Shen
+wei:
+  first_name: Wei
+  last_name: Jia
