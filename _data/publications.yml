@@ -6,7 +6,7 @@
   Furthermore, an online prediction algorithm for composite uncertainties is proposed by seamlessly integrating learning-based feedforward and model-based/symbolic feedback techniques."
   project_page: https://sites.google.com/view/buaa-foresser
   arxiv: 
-  image: illuminerf_before.jpg
+  image: FPRESEER_fig.jpg
   image_mouseover: illuminerf_after.mp4
   authors:
     - jindou
