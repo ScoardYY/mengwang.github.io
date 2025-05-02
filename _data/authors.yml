@@ -1,43 +1,40 @@
-keunhong:
-  first_name: Keunhong
-  last_name: Park
-  website: https://keunhong.com
+jindou:
+  first_name: Jindou
+  last_name: Jia
+  website: https://jindou.com
   is_me: true
-rmbrualla:
-  first_name: Ricardo
-  last_name: Martin-Brualla
-  website: https://ricardomartinbrualla.com
-smseitz:
-  first_name: Steven 
-  middle_name: M.
-  last_name: Seitz
-  website: https://smseitz.com
-ali:
-  first_name: Ali
-  last_name: Farhadi
-  website: https://homes.cs.washington.edu/~ali/
-krematas:
-  first_name: Kostas
-  last_name: Rematas
-  website: https://krematas.com
-barron:
-  first_name: Jonathan
-  middle_name: T.
-  last_name: Barron
-  website: https://jonbarron.info
-sofien:
-  first_name: Sofien
-  last_name: Bouaziz
-  website: http://sofienbouaziz.com/
-utsinh:
-  first_name: Utkarsh
-  last_name: Sinha
-  website: https://utkarshsinha.com/
-dgo:
-  first_name: Dan
-  middle_name: B
-  last_name: Goldman
-  website: https://www.danbgoldman.com/home/
+zihan:
+  first_name: Zihan
+  last_name: Yang
+  website: https://zzhanyoung.github.io/
+kexin:
+  first_name: Kexin 
+  last_name: Guo
+  website: https://shi.buaa.edu.cn/guokexin1/zh_CN/index/191336/list/index.htm
+xiang:
+  first_name: Xiang
+  last_name: Yu
+  website: https://shi.buaa.edu.cn/xiangyu1110/zh_CN/
+lei:
+  first_name: Lei
+  last_name: Guo
+  website: https://www.buaa.edu.cn/info/1028/1599.htm
+jiayi:
+  first_name: Jiayi
+  last_name: Zhang
+  website: 
+yuyang:
+  first_name: Yuyang
+  last_name: Wang
+  website:
+meng:
+  first_name: Meng
+  last_name: Wang
+  website:
+wenyu:
+  first_name: Wenyu
+  last_name: Zhang
+  website:
 amousavian:
   first_name: Arsalan
   last_name: Mousavian
