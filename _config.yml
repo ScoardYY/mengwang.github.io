@@ -18,23 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Keunhong Park
-name: Keunhong Park
-position: Research Scientist 
-email: dp9jalxhq@mozmail.com
+title: Jindou Jia
+name: Jindou Jia
+position: PhD student
+email: jdjia@buaa.edu.cn
 description: >-
-  I am a researcher in 3D computer vision and generative AI. I currently co-lead the development of spatial intelligence at [World Labs](https://www.worldlabs.ai/blog).
-  I was previously a research scientist at [Google](https://ai.google/research/) where I built technology to [generate 3D assets](https://blog.google/products/shopping/search-on-2022-shopping/) for products on Google Search.
+  I am a Ph.D. student at the School of Automation Science and Electrical Engineering and Shenyuan Honors College, Beihang University, China. I am supervised by Prof. [Lei Guo](https://scholar.google.com/citations?user=IxO-SDwAAAAJ&hl=zh-CN), Prof. [Xiang Yu](https://scholar.google.com/citations?user=6UgtuZ8AAAAJ&hl=zh-CN&oi=ao), and Prof. [Kexin Guo](https://scholar.google.com/citations?hl=zh-CN&user=c0MaejIAAAAJ).
+  
+  Robots deployed in the real world inevitably face uncertainties caused by internal model mismatch and external unmeasured disturbances. The topic of my Ph.D. research is learning and predicting uncertainties for robotic control and planning.
 
-  I received my Ph.D from the [University of Washington](https://grail.cs.washington.edu/) in 2021 where I was advised by
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: keunhong
-google_scholar: HVZb-5oAAAAJ
-google_analytics: G-MFWSBLRKG0
+url: "https://jindou.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: # KeunhongP
+github_username: # keunhong
+google_scholar: # HVZb-5oAAAAJ
+google_analytics: # G-MFWSBLRKG0
 
 # Build settings
 theme: minima
