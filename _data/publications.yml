@@ -1,7 +1,9 @@
 - id: FORESEER
   title: "FORESEER: Recognize and utilize uncertainties by integrating data-based learning and symbolic feedback"
   venue: Under review, 2025
-  description: "3D relighting by distilling samples from a 2D image relighting diffusion model into a latent-variable NeRF."
+  description: "We present two converged uncertainty prediction frameworks, enabling accurate prediction of two general kinds of uncertainties, respectively. 
+  At first, a prediction algorithm for nonlinearly parametric uncertainties is developed by merging analytical basis learning with online symbolic adaptive estimation. 
+  Furthermore, an online prediction algorithm for composite uncertainties is proposed by seamlessly integrating learning-based feedforward and model-based/symbolic feedback techniques."
   project_page: https://sites.google.com/view/buaa-foresser
   arxiv: 
   image: illuminerf_before.jpg
