@@ -1,18 +1,21 @@
-- id: illuminerf
-  title: "IllumiNeRF 3D Relighting without Inverse Rendering"
-  venue: NeurIPS, 2024
+- id: FORESEER
+  title: "FORESEER: Recognize and utilize uncertainties by integrating data-based learning and symbolic feedback"
+  venue: Under review, 2025
   description: "3D relighting by distilling samples from a 2D image relighting diffusion model into a latent-variable NeRF."
-  project_page: https://illuminerf.github.io
-  arxiv: 2406.06527
+  project_page: https://sites.google.com/view/buaa-foresser
+  arxiv: 
   image: illuminerf_before.jpg
   image_mouseover: illuminerf_after.mp4
   authors:
-    - xiaomingzhao
-    - pratuls
-    - dorverbin
-    - keunhong
-    - rmbrualla
-    - phenzler
+    - Jindou Jia
+    - Kexin Guo
+    - Yuyang Wang
+    - Sicheng Zhou
+    - Jiayi Zhang
+    - Yuhang Liu
+    - Xiang Yu
+    - Yang Shi
+    - Lei Guo
 - id: reconfusion
   title: "ReconFusion: 3D Reconstruction with Diffusion Priors"
   venue: CVPR, 2024
