@@ -9,15 +9,15 @@
   image: illuminerf_before.jpg
   image_mouseover: illuminerf_after.mp4
   authors:
-    - Jindou Jia
-    - Kexin Guo
-    - Yuyang Wang
-    - Sicheng Zhou
-    - Jiayi Zhang
-    - Yuhang Liu
-    - Xiang Yu
-    - Yang Shi
-    - Lei Guo
+    - Jindou
+    - Kexin
+    - Yuyang
+    - Sicheng
+    - Jiayi
+    - Yuhang
+    - Xiang
+    - Yang
+    - Lei
 - id: reconfusion
   title: "ReconFusion: 3D Reconstruction with Diffusion Priors"
   venue: CVPR, 2024
