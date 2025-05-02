@@ -59,10 +59,10 @@ bin:
   first_name: Bin
   last_name: Yang
   website:
-phenzler:
-  first_name: Philipp
-  last_name: Henzler
-  website: https://henzler.github.io
+jianliang:
+  first_name: Jianliang
+  last_name: Wang
+  website: 
 bmild:
   first_name: Ben
   last_name: Mildenhall
