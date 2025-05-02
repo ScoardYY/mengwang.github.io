@@ -5,7 +5,7 @@
   At first, a prediction algorithm for nonlinearly parametric uncertainties is developed by merging analytical basis learning with online symbolic adaptive estimation. 
   Furthermore, an online prediction algorithm for composite uncertainties is proposed by seamlessly integrating learning-based feedforward and model-based/symbolic feedback techniques."
   project_page: https://sites.google.com/view/buaa-foresser
-  image: FPRESEER_fig.jpg
+  image: FORESEER_fig.jpg
   image_mouseover: illuminerf_after.mp4
   authors:
     - jindou
