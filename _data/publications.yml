@@ -1,9 +1,7 @@
 - id: FORESEER
   title: "FORESEER: Recognize and utilize uncertainties by integrating data-based learning and symbolic feedback"
   venue: Under review, 2025
-  description: "We present two converged uncertainty prediction frameworks, enabling accurate prediction of two general kinds of uncertainties, respectively. 
-  At first, a prediction algorithm for nonlinearly parametric uncertainties is developed by merging analytical basis learning with online symbolic adaptive estimation. 
-  Furthermore, an online prediction algorithm for composite uncertainties is proposed by seamlessly integrating learning-based feedforward and model-based/symbolic feedback techniques."
+  description: "We present two converged uncertainty prediction frameworks, enabling accurate prediction of two general kinds of uncertainties, respectively."
   project_page: https://sites.google.com/view/buaa-foresser
   image: FORESEER_fig.jpg
   image_mouseover: illuminerf_after.mp4
@@ -17,11 +15,13 @@
     - xiang
     - yang
     - lei
+    
 - id: FeedbackNN
-  title: "Feedback Favors the Generalization of Neural ODEs"
-  venue: ICLR, Oral, 2024
+  title: "Feedback favors the generalization of neural ODEs"
+  venue: ICLR, 2024
   description: "We present feedback neural networks, showing that a feedback loop can flexibly correct the learned latent dynamics of neural ordinary differential equations (neural ODEs), leading to a prominent generalization improvement."
   project_page: https://sites.google.com/view/feedbacknn
+  github: JIAjindou/Feedback-neural-network
   image: feedbackNN_fig.png
   arxiv: 2410.10253
   authors:
@@ -32,10 +32,13 @@
     - jianfei
     - xiang
     - lei
+  awards:
+    - "Oral Presentation"
+    
 - id: EVOLVER
-  title: "EVOLVER: Online Learning and Prediction of Disturbances for Robot Control"
+  title: "EVOLVER: Online learning and prediction of disturbances for robot control"
   venue: IEEE Transactions on Robotics (T-RO), 2024
-  description: "We present a framework, namely EVOLutionarymodel-based uncertainty obserVER (EVOLVER), to mimic the bio-behavior for robotics to achieve rapid transient reaction ability and high precision steady-state performance simultaneously."
+  description: "We present a framework, namely EVOLVER, to mimic the bio-behavior for robotics to achieve rapid transient reaction ability and high precision steady-state performance simultaneously."
   project_page: https://sites.google.com/view/buaa-evolver
   image: EVOLVER_fig.png
   image_mouseover: reconfusion_after.mp4
@@ -44,107 +47,74 @@
     - wenyu
     - kexin
     - jianliang
-    - xiangyu
-    - yang
     - xiang
-- id: hypernerf
-  title: "CamP: Camera Preconditioning for Neural Radiance Fields"
-  venue: SIGGRAPH Asia, 2023
-  description: "Preconditioning camera optimization during NeRF training significantly improves their ability to jointly recover the scene and camera parameters."
-  project_page: "https://camp-nerf.github.io"
-  github: jonbarron/camp_zipnerf
-  arxiv: 2308.10902
-  image: camp_before.jpg
+    - yang
+    - lei
+  
+- id: Drag
+  title: "Accurate high-maneuvering trajectory tracking for quadrotors: A drag utilization method"
+  venue: IEEE Robotics and Automation Letters (R-AL), 2022
+  description: "Different from standard approaches that achieve precise tracking by feedforward compensating the estimated drag, this work presents a scheme to appropriately utilize drag."
+  image: RAL_fig.png
   image_mouseover: camp_after.mp4
   authors:
-    - keunhong
-    - phenzler
-    - bmild
-    - barron
-    - rmbrualla
-  awards:
-    - "Journal Paper"
+    - jindou
+    - kexin
+    - xiang
+    - weihua
+    - lei
 
-- id: hypernerf
-  title: "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields"
-  venue: SIGGRAPH Asia, 2021
-  description: "By applying ideas from level set methods, we can represent topologically changing scenes with NeRFs."
-  project_page: "https://hypernerf.github.io"
-  github: google/hypernerf
-  arxiv: 2106.13228
-  image: hypernerf_before.jpg
+- id: Window
+  title: "Agile flight control under multiple disturbances for quadrotor: Algorithms and evaluation"
+  venue: IEEE Transactions on Aerospace and Electronic Systems (T-AES), 2022
+  description: "A scheme of anti-disturbance agile flight control is developed for a maneuverable quadrotor unmanned aerial vehicle, subject to the aerodynamic drag, dynamic shift of center of gravity, and motor dynamics."
+  image: TAES_fig.jpg
   image_mouseover: hypernerf_after.mp4
   authors:
-    - keunhong
-    - utsinh
-    - hedman
-    - barron
-    - sofien
-    - dgo
-    - rmbrualla
-    - smseitz
+    - jindou
+    - kexin
+    - xiang
+    - lei
+    - lihua
 
-- id: fignerf
-  title: "FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling "
-  venue: 3DV, 2021
-  description: "Given a lot of images of an object category, you can train a NeRF to render them from novel views and interpolate between different instances."
-  project_page: "https://fig-nerf.github.io"
-  arxiv: 2104.08418
-  image: fignerf_before.jpg
-  image_mouseover: fignerf_after.mp4
+- id: CEP
+  title: "Multiple observers-based anti-disturbance control for a quadrotor UAV against payload and wind disturbance"
+  venue: Control Engineering Practice, 2020
+  description: "This paper presents a multiple observers-based anti-disturbance control scheme against multiple disturbances for a quadrotor unmanned aerial vehicle."
+  image: CEP_fig.png
   authors:
-    - chrisxie
-    - keunhong
-    - rmbrualla
-    - mtbr
+    - kexin
+    - jindou
+    - xiang
+    - lei
+    - lihua
 
-- id: nerfies
-  title: "Nerfies: Deformable Neural Radiance Fields"
-  venue: ICCV, 2021
-  description: "Learning deformation fields with a NeRF let's you reconstruct non-rigid scenes with high fidelity."
-  project_page: "https://nerfies.github.io"
-  github: google/nerfies
-  arxiv: 2011.12948
-  image: nerfies_before.jpg
+- id: ICUAS
+  title: "Flight control for quadrotor safety in the presence of CoG shift and loss of motor efficiency"
+  venue:  International Conference on Unmanned Aircraft Systems (ICUAS), 2022
+  description: "A safety control strategy based on a novel nonlinear disturbance observer and geometric control is developed for a quadrotor unmanned aerial vehicle, subject to the disturbances caused by center-of-gravity shift and loss of motor efficiency."
+  image: ICUAS_fig.png
   image_mouseover: nerfies_after.mp4
   authors:
-    - keunhong
-    - utsinh
-    - barron
-    - sofien
-    - dgo
-    - smseitz
-    - rmbrualla
+    - jindou
+    - kexin
+    - chenliang
+    - ning
+    - wei
+    - xiang
   awards:
     - "Oral Presentation"
 
-- id: latentfusion
-  title: "LatentFusion: End-to-End Differentiable Reconstruction and Rendering for Unseen Object Pose Estimation "
-  venue: CVPR, 2020
-  description: "By learning to predict geometry from images, you can do zero-shot pose estimation with a single network."
-  project_page: "https://latentfusion.github.io"
-  github: NVlabs/latentfusion
-  arxiv: 1912.00416
-  image: latentfusion_before.jpg
+- id: CAC
+  title: "Dual-disturbance observers-based control of UAV subject to internal and external disturbances"
+  venue: China Automation Conference, 2019
+  description: "This paper presents an embedded micro loop to enhance the anti-disturbance performance for unmanned aerial vehicles."
+  image: CAC_fig.png
   image_mouseover: latentfusion_after.mp4
   authors:
-    - keunhong
-    - amousavian
-    - yux
-    - fox
-
-- id: photoshape
-  title: "PhotoShape: Photorealistic Materials for Large-Scale Shape Collections"
-  venue: SIGGRAPH Asia, 2018
-  description: "By pairing large collections of images, 3D models, and materials, you can create thousands of photorealistic 3D models fully automatically."
-  project_page: "https://photoshape.github.io"
-  github: keunhong/photoshape
-  arxiv: 1809.09761
-  image: photoshape.jpg
-  authors:
-    - keunhong
-    - krematas
-    - ali
-    - smseitz
+    - kexin
+    - jindou
+    - xiang
+    - lei
   awards:
-    - "Journal Cover"
+    - "First Prize of Outstanding Paper"
