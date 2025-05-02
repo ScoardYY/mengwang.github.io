@@ -18,7 +18,7 @@
     
 - id: FeedbackNN
   title: "Feedback favors the generalization of neural ODEs"
-  venue: ICLR, 2024
+  venue: International Conference on Learning Representations (ICLR), 2024
   description: "We present feedback neural networks, showing that a feedback loop can flexibly correct the learned latent dynamics of neural ordinary differential equations (neural ODEs), leading to a prominent generalization improvement."
   project_page: https://sites.google.com/view/feedbacknn
   github: JIAjindou/Feedback-neural-network
