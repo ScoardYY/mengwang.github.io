@@ -30,7 +30,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jindou.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: # KeunhongP
-github_username: JIAjindou# keunhong
+github_username: JIAjindou # keunhong
 google_scholar: 3gFYDFAAAAAJ&hl=zh-CN&oi=ao # HVZb-5oAAAAJ
 google_analytics: # G-MFWSBLRKG0
 
