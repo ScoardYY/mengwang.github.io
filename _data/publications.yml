@@ -43,6 +43,7 @@
   venue: IEEE Transactions on Robotics (T-RO), 2024
   description: "We present a framework, namely EVOLVER, to mimic the bio-behavior for robotics to achieve rapid transient reaction ability and high precision steady-state performance simultaneously."
   project_page: https://sites.google.com/view/buaa-evolver
+  github: JIAjindou/EVOLVER
   video: https://www.youtube.com/watch?v=1t8NqQ5C3Co
   link_web: https://ieeexplore.ieee.org/document/10288520
   image: EVOLVER_fig.png
