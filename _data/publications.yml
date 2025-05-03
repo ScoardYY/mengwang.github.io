@@ -27,6 +27,7 @@
   image: feedbackNN_fig.png
   arxiv: 2410.10253
   link_web: https://openreview.net/forum?id=cmfyMV45XO
+  equal_contri: true
   authors:
     - jindou
     - zihan
@@ -109,6 +110,7 @@
   link_web: https://ieeexplore.ieee.org/document/9836202
   image: ICUAS_fig.png
   image_mouseover: nerfies_after.mp4
+  equal_contri: true
   authors:
     - jindou
     - kexin
@@ -127,6 +129,7 @@
   link_web: https://ieeexplore.ieee.org/document/8997330
   image: CAC_fig.png
   image_mouseover: latentfusion_after.mp4
+  equal_contri: true
   authors:
     - kexin
     - jindou
