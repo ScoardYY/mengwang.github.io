@@ -1,47 +1,47 @@
-- company: World Labs
-  description: Founding Member
-  dates: "Jan 2024 - (current)"
-  location: San Francisco, CA
+- company: Academic Excellence Fund for Doctoral Candidate
+  description: Funds, ≤1 %, Project leader
+  dates: " 2024 - 2025"
+  location: Beihang, China
 
-- company: Google
-  description: Research Scientist
-  dates: "May 2022 - Jan 2024"
-  location: San Francisco, CA
+- company: Outstanding Research Project of Shen Yuan Honors College
+  description: Funds, Project leader
+  dates: " 2022 - 2024"
+  location: Beihang, China
 
-- company: Google
+- company: Best student paper award
   description: >-
-    Research Intern on the <a href="https://blog.google/technology/research/project-starline/">Project Starline</a> team.
-    Worked on <a href="https://nerfies.github.io">Nerfies</a> and <ahref="https://hypernerf.github.io">HyperNeRF</a>.
-  dates: "Jun 2020 - Sep 2021"
-  location: Seattle, WA
+    TRACE - Trajectory refinement with control error enables safe and accurate maneuvers.
+  dates: "2025"
+  location: IEEE International Conference on Control and Automation
 
-- company: NVIDIA
+- company: Four-times Outstanding Academic Innovation Award  
+  dates: "2022 - 2023"
+  location: Beihang, China
+
+- company: Two-times First-class Scholarship
+  dates: "2021 - 2022"
+  location: Beihang, China
+
+- company: First Prize of Outstanding Paper
   description: >-
-    Robotics Research Intern at the <a href="https://www.nvidia.com/en-us/research/robotics/">Seattle Robotics Lab</a>.
-    Worked on <a href="https://latentfusion.github.io">LatentFusion</a>.
-  dates: "Jul 2019 - Nov 2019"
-  location: Seattle, WA
+    Dual-disturbance observers-based control of UAV subject to internal and external disturbances
+  dates: "2019"
+  location: IEEE Chinese Automation Conference
 
-- company: Amazon
-  description: >- 
-    Applied Scientist Intern on the <a href="https://amazon.com/go">Amazon Go</a> team.
-    Worked on human activity detection.
-  dates: "Jul 2017 - Sep 2017"
-  location: Seattle, WA
+- company: China Classification Society Scholarship
+  dates: "2017"
+  location: China Classification Society
 
-- company: Ministry of National Defense, Cyber Command
-  description: Software Engineer (mandatory military service). Worked on network monitoring software.
-  dates: "Oct 2013 - Jul 2015"
-  location: Seoul, Korea
+- company: First prize in Mathematical Contest in Modeling
+  dates: "2016"
+  location: Heilongjiang Province
 
-- company: Google
-  description: Software Engineering Intern. Create document conversion system for Google Cloud Print.
-  dates: "May 2013 - Aug 2013"
-  location: Mountain View, CA
+- company: First prize in the Chinese Mathematics Competitions
+  dates: "2016"
+  location: China
 
-- company: Qualcomm
-  description: >-
-    Software Engineering Intern. Optimized performance of JGit, reducing push times from hours to seconds.
-    Implemented multi-master support for Gerrit Code Review.
-  dates: "May 2012 - Aug 2012"
-  location: Boulder, CO
+- company: National Scholarship
+  dates: "2016"
+  location: China
+
+
