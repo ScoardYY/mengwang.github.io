@@ -145,6 +145,12 @@ layout: null
             <p class="publication-description">{{ publication.description }}</p>
             <!-- Publication Links. -->
             <div class="publication-links buttons field has-addons">
+              {% if publication.link_web %}
+              <a class="external-link button is-small is-ghost" href="{{ publication.link_web }}">
+               <span class="icon"><i class="fas fa-link"></i></span>
+               <span>Link</span>
+              </a>
+              {% endif %}
               {% if publication.project_page %}
               <a class="external-link button is-small is-ghost" href="{{ publication.project_page }}">
                 <span class="icon"><i class="fas fa-globe-asia"></i></span>
