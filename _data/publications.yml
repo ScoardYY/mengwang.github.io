@@ -94,6 +94,7 @@
   description: "This paper presents a multiple observers-based anti-disturbance control scheme against multiple disturbances for a quadrotor unmanned aerial vehicle."
   video: https://www.youtube.com/watch?v=JW1uu8PoNPA
   link_web: https://www.sciencedirect.com/science/article/pii/S0967066120301544
+  equal_contri: true
   image: CEP_fig.png
   authors:
     - kexin
@@ -110,7 +111,6 @@
   link_web: https://ieeexplore.ieee.org/document/9836202
   image: ICUAS_fig.png
   image_mouseover: nerfies_after.mp4
-  equal_contri: true
   authors:
     - jindou
     - kexin
