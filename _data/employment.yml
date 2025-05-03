@@ -14,6 +14,12 @@
   dates: "2025"
   location: IEEE International Conference on Control and Automation
 
+- company: First Prize of Outstanding Paper
+  description: >-
+    Dual-disturbance observers-based control of UAV subject to internal and external disturbances
+  dates: "2019"
+  location: IEEE Chinese Automation Conference
+
 - company: Four-times Outstanding Academic Innovation Award  
   dates: "2022 - 2023"
   location: Beihang, China
@@ -21,12 +27,6 @@
 - company: Two-times First-class Scholarship
   dates: "2021 - 2022"
   location: Beihang, China
-
-- company: First Prize of Outstanding Paper
-  description: >-
-    Dual-disturbance observers-based control of UAV subject to internal and external disturbances
-  dates: "2019"
-  location: IEEE Chinese Automation Conference
 
 - company: China Classification Society Scholarship
   dates: "2017"
