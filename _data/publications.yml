@@ -4,7 +4,7 @@
   description: "We present two converged uncertainty prediction frameworks, enabling accurate prediction of two general kinds of uncertainties, respectively."
   project_page: https://sites.google.com/view/buaa-foresser
   image: FORESEER_fig.jpg
-  image_mouseover: illuminerf_after.mp4
+  image_mouseover: FORESEER_COMP.mp4
   video: https://www.youtube.com/watch?v=1sLnpcTjXg4&list=PLaSQ4X8BD0X5O-QmBGUQ7n5tqOcbX2oiE
   link_web: https://sites.google.com/view/buaa-foresser
   authors:
@@ -48,7 +48,7 @@
   video: https://www.youtube.com/watch?v=1t8NqQ5C3Co
   link_web: https://ieeexplore.ieee.org/document/10288520
   image: EVOLVER_fig.png
-  image_mouseover: reconfusion_after.mp4
+  image_mouseover: EVOLVER_COMP.mp4
   authors:
     - jindou
     - wenyu
@@ -65,7 +65,7 @@
   video: https://www.youtube.com/watch?v=qO8A6lwCxMU
   link_web: https://ieeexplore.ieee.org/document/9779449
   image: RAL_fig.png
-  image_mouseover: camp_after.mp4
+  image_mouseover: RAL_COMP.mp4
   authors:
     - jindou
     - kexin
@@ -80,7 +80,7 @@
   video: https://www.youtube.com/watch?v=XTn65xUlLwk
   link_web: https://ieeexplore.ieee.org/document/9684676
   image: TAES_fig.jpg
-  image_mouseover: hypernerf_after.mp4
+  image_mouseover: TAES_COMP.mp4
   authors:
     - jindou
     - kexin
@@ -96,6 +96,7 @@
   link_web: https://www.sciencedirect.com/science/article/pii/S0967066120301544
   equal_contri: true
   image: CEP_fig.png
+  image_mouseover: CEP.mp4
   authors:
     - kexin
     - jindou
@@ -110,7 +111,7 @@
   video: https://www.youtube.com/watch?v=lHA8qYbLiac
   link_web: https://ieeexplore.ieee.org/document/9836202
   image: ICUAS_fig.png
-  image_mouseover: nerfies_after.mp4
+  image_mouseover: ICUAS_COMP.mp4
   authors:
     - jindou
     - kexin
@@ -128,7 +129,7 @@
   video: https://www.youtube.com/watch?v=jDj2mIrms-A
   link_web: https://ieeexplore.ieee.org/document/8997330
   image: CAC_fig.png
-  image_mouseover: latentfusion_after.mp4
+  image_mouseover: CAC.mp4
   equal_contri: true
   authors:
     - kexin
