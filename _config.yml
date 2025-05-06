@@ -28,7 +28,7 @@ description: >-
   Robots deployed in the real world inevitably face uncertainties caused by internal model mismatch and external unmeasured disturbances. The topic of my Ph.D. research is learning and predicting uncertainties for robotic control and planning.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jindou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jiajindou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: # KeunhongP
 github_username: JIAjindou # keunhong
 google_scholar: 3gFYDFAAAAAJ&hl=zh-CN&oi=ao # HVZb-5oAAAAJ
