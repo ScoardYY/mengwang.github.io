@@ -1,0 +1,15 @@
+- id: TRACE
+  title: "TRACE: Trajectory refinement with control error enables safe and accurate maneuvers"
+  venue: International Conference on Control and Automation (ICCA), 2024
+  description: "By leveraging the idea of TRAjectory refinement with Control Error (TRACE) for higher closed-loop performance, we develop a post-trajectory optimization approach for safe and accurate tracking control."
+  video: https://www.youtube.com/watch?v=2LhG1oYMrq8&embeds_referring_euri=https%3A%2F%2Fsites.google.com%2F&source_ve_path=Mjg2NjY
+  link_web: https://ieeexplore.ieee.org/document/10591858
+  image: EVOLVER_fig.png
+  authors:
+    - zihan
+    - jindou
+    - yuhang
+    - kexin
+    - xiang
+    - lei
+ award: Best Student Paper Award
