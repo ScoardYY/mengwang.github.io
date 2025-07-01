@@ -1,39 +1,5 @@
 
-- id: millimeter_tro
-  title: "Millimeter-level pick and peg-in-hole task achieved by aerial manipulator"
-  venue: IEEE Transactions on Robotics (IEEE TRO), 2024
-  description: "Building upon the philosophy of disturbance rejection, we propose a predictive optimization scheme that allows aerial manipulator to successfully execute millimeter-level flying pick and peg-in-hole task."
-  # project_page: https://sites.google.com/view/buaa-evolver
-  # github: JIAjindou/EVOLVER
-  video: https://youtu.be/D7__4yyXnc8
-  link_web: https://ieeexplore.ieee.org/document/10339889
-  image: EVOLVER_fig2.png
-  image_mouseover: TRO_mini.mp4
-  authors:
-    - meng
-    - zeshuai
-    - kexin
-    - xiang
-    - lei
-    - wei
 
-- id: precise
-  title: "Precise End-Effector Control for an Aerial Manipulator Under Composite Disturbances: Theory and Experiments"
-  venue: IEEE TTransactions on Automation Science and Engineering (IEEE TASE), 2024
-  description: ""In this work, a composite control scheme is constructed, which consists of the manipulator joint velocity planner and the dynamic controller. The joint velocity is generated to counteract the fluctuation of the aerial platform. Furthermore, the dynamic controller is developed to accurately track the planned joint velocity in the presence of strong coupling and model  uncertainties."
-  # project_page: https://sites.google.com/view/buaa-evolver
-  # github: JIAjindou/EVOLVER
-  video: https://youtu.be/4wOMj6tZSxE
-  link_web: https://ieeexplore.ieee.org/document/10547187/
-  image: EVOLVER_fig2.png
-  image_mouseover: TRO_mini.mp4
-  authors:
-    - meng
-    - shangke
-    - qianyuan
-    - ziqi
-    - kexin
-    - xiang
   
 - id: FeedbackNN
   title: "Feedback favors the generalization of neural ODEs"
