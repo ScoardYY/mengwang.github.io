@@ -1,23 +1,40 @@
-- id: FORESEER
-  title: "FORESEER: Recognize and utilize uncertainties by integrating data-based learning and symbolic feedback"
-  venue: Accepted by The International Journal of Robotics Research (IJRR), 2025
-  description: "We present two converged uncertainty prediction frameworks, enabling accurate prediction of two general kinds of uncertainties, respectively."
-  project_page: https://sites.google.com/view/buaa-foresser
-  image: FORESEER_fig.jpg
-  image_mouseover: IJRR_mini.mp4
-  video: https://www.youtube.com/watch?v=1sLnpcTjXg4&list=PLaSQ4X8BD0X5O-QmBGUQ7n5tqOcbX2oiE
-  link_web: https://sites.google.com/view/buaa-foresser
+
+- id: millimeter_tro
+  title: "Millimeter-level pick and peg-in-hole task achieved by aerial manipulator"
+  venue: IEEE Transactions on Robotics (IEEE TRO), 2024
+  description: "Building upon the philosophy of disturbance rejection, we propose a predictive optimization scheme that allows aerial manipulator to successfully execute millimeter-level flying pick and peg-in-hole task."
+  # project_page: https://sites.google.com/view/buaa-evolver
+  # github: JIAjindou/EVOLVER
+  video: https://youtu.be/D7__4yyXnc8
+  link_web: https://ieeexplore.ieee.org/document/10339889
+  image: EVOLVER_fig2.png
+  image_mouseover: TRO_mini.mp4
   authors:
-    - jindou
+    - meng
+    - zeshuai
     - kexin
-    - yuyang
-    - sicheng
-    - jiayi
-    - yuhang
     - xiang
-    - yang
     - lei
-    
+    - wei
+
+- id: precise
+  title: "Precise End-Effector Control for an Aerial Manipulator Under Composite Disturbances: Theory and Experiments"
+  venue: IEEE TTransactions on Automation Science and Engineering (IEEE TASE), 2024
+  description: ""In this work, a composite control scheme is constructed, which consists of the manipulator joint velocity planner and the dynamic controller. The joint velocity is generated to counteract the fluctuation of the aerial platform. Furthermore, the dynamic controller is developed to accurately track the planned joint velocity in the presence of strong coupling and model  uncertainties."
+  # project_page: https://sites.google.com/view/buaa-evolver
+  # github: JIAjindou/EVOLVER
+  video: https://youtu.be/4wOMj6tZSxE
+  link_web: https://ieeexplore.ieee.org/document/10547187/
+  image: EVOLVER_fig2.png
+  image_mouseover: TRO_mini.mp4
+  authors:
+    - meng
+    - shangke
+    - qianyuan
+    - ziqi
+    - kexin
+    - xiang
+  
 - id: FeedbackNN
   title: "Feedback favors the generalization of neural ODEs"
   venue: International Conference on Learning Representations (ICLR), 2025
@@ -38,103 +55,3 @@
     - lei
   awards:
     - "Oral Presentation"
-    
-- id: millimeter_tro
-  title: "Millimeter-level pick and peg-in-hole task achieved by aerial manipulator"
-  venue: IEEE Transactions on Robotics (IEEE TRO), 2024
-  description: "Building upon the philosophy of disturbance rejection, we propose a predictive optimization scheme that allows aerial manipulator to successfully execute millimeter-level flying pick and peg-in-hole task."
-  # project_page: https://sites.google.com/view/buaa-evolver
-  # github: JIAjindou/EVOLVER
-  video: https://youtu.be/D7__4yyXnc8
-  link_web: https://ieeexplore.ieee.org/document/10339889
-  image: EVOLVER_fig2.png
-  image_mouseover: TRO_mini.mp4
-  authors:
-    - jindou
-    - wenyu
-    - kexin
-    - jianliang
-    - xiang
-    - yang
-    - lei
-  
-- id: Drag
-  title: "Accurate high-maneuvering trajectory tracking for quadrotors: A drag utilization method"
-  venue: IEEE Robotics and Automation Letters (R-AL), 2022
-  description: "Different from standard approaches that achieve precise tracking by feedforward compensating the estimated drag, this work presents a scheme to appropriately utilize drag."
-  video: https://www.youtube.com/watch?v=qO8A6lwCxMU
-  link_web: https://ieeexplore.ieee.org/document/9779449
-  image: RAL_fig.png
-  image_mouseover: RAL_mini.mp4
-  authors:
-    - jindou
-    - kexin
-    - xiang
-    - weihua
-    - lei
-
-- id: Window
-  title: "Agile flight control under multiple disturbances for quadrotor: Algorithms and evaluation"
-  venue: IEEE Transactions on Aerospace and Electronic Systems (T-AES), 2022
-  description: "A scheme of anti-disturbance agile flight control is developed for a maneuverable quadrotor unmanned aerial vehicle, subject to the aerodynamic drag, dynamic shift of center of gravity, and motor dynamics."
-  video: https://www.youtube.com/watch?v=XTn65xUlLwk
-  link_web: https://ieeexplore.ieee.org/document/9684676
-  image: TAES_fig.jpg
-  image_mouseover: TAES_mini.mp4
-  authors:
-    - jindou
-    - kexin
-    - xiang
-    - lei
-    - lihua
-
-- id: CEP
-  title: "Multiple observers-based anti-disturbance control for a quadrotor UAV against payload and wind disturbance"
-  venue: Control Engineering Practice, 2020
-  description: "This paper presents a multiple observers-based anti-disturbance control scheme against multiple disturbances for a quadrotor unmanned aerial vehicle."
-  video: https://www.youtube.com/watch?v=JW1uu8PoNPA
-  link_web: https://www.sciencedirect.com/science/article/pii/S0967066120301544
-  equal_contri: true
-  image: CEP_fig.png
-  image_mouseover: CEP_mini.mp4
-  authors:
-    - kexin
-    - jindou
-    - xiang
-    - lei
-    - lihua
-
-- id: ICUAS
-  title: "Flight control for quadrotor safety in the presence of CoG shift and loss of motor efficiency"
-  venue:  International Conference on Unmanned Aircraft Systems (ICUAS), 2022
-  description: "A safety control strategy based on a novel nonlinear disturbance observer and geometric control is developed for a quadrotor unmanned aerial vehicle, subject to the disturbances caused by center-of-gravity shift and loss of motor efficiency."
-  video: https://www.youtube.com/watch?v=lHA8qYbLiac
-  link_web: https://ieeexplore.ieee.org/document/9836202
-  image: ICUAS_fig.png
-  image_mouseover: ICUAS_mini.mp4
-  authors:
-    - jindou
-    - kexin
-    - chenliang
-    - ning
-    - wei
-    - xiang
-  awards:
-    - "Oral Presentation"
-
-- id: CAC
-  title: "Dual-disturbance observers-based control of UAV subject to internal and external disturbances"
-  venue: China Automation Conference, 2019
-  description: "This paper presents an embedded micro loop to enhance the anti-disturbance performance for unmanned aerial vehicles."
-  video: https://www.youtube.com/watch?v=jDj2mIrms-A
-  link_web: https://ieeexplore.ieee.org/document/8997330
-  image: CAC_fig.png
-  image_mouseover: CAC_mini.mp4
-  equal_contri: true
-  authors:
-    - kexin
-    - jindou
-    - xiang
-    - lei
-  awards:
-    - "First Prize of Outstanding Paper"
