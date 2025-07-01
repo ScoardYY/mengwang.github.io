@@ -27,11 +27,11 @@
   image_mouseover: TRO_mini.mp4
   authors:
     - meng
-    - shangke
-    - qianyuan
-    - ziqi
+    - zeshuai
     - kexin
     - xiang
+    - lei
+    - wei
     
 - id: FeedbackNN
   title: "Feedback favors the generalization of neural ODEs"
