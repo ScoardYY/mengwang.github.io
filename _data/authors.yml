@@ -1,8 +1,11 @@
+meng:
+  first_name: Meng
+  last_name: Wang
+  is_me: true
 jindou:
   first_name: Jindou
   last_name: Jia
   website: https://jindou.com
-  is_me: true
 zihan:
   first_name: Zihan
   last_name: Yang
@@ -24,9 +27,6 @@ jiayi:
   last_name: Zhang
 yuyang:
   first_name: Yuyang
-  last_name: Wang
-meng:
-  first_name: Meng
   last_name: Wang
 wenyu:
   first_name: Wenyu
@@ -60,7 +60,7 @@ ning:
   last_name: Shen
 wei:
   first_name: Wei
-  last_name: Jia
+  last_name: Wang
 chenliang:
   first_name: Chenliang
   last_name: Wang
@@ -76,4 +76,13 @@ zeshuai:
 weihua:
   first_name: Weihua
   last_name: Zhao
+shangke:
+  first_name: Shangke
+  last_name: Lyu 
+qianyuan:
+  first_name: Qianyuan
+  last_name: Liu 
+Ziqi:
+  first_name: Ziqi
+  last_name: Yang
   
