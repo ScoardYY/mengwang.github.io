@@ -1,20 +1,20 @@
-- id: SR
-  title: "CAPTURER"
-  venue: Submitted to Science Robotics (JCR Q1 IF:27.5), 2025
-  description: "Inspired by the astonishing hunting behavior observed in predatory birds, the first example of Capturing Active Pen-size Target via a Unified and Robust Eagle-like Robot (CAPTURER), is developed in this work. The CAPTURER features a whole biomimetic framework including mechanical design, onboard perception, motion planning, dynamic control, and dexterous manipulation, satisfying ARTS. This represents the fastest and most accurate vision-based grasping performance reported in the literature."
+#- id: SR
+#  title: "CAPTURER"
+#  venue: Submitted to Science Robotics (JCR Q1 IF:27.5), 2025
+#  description: "Inspired by the astonishing hunting behavior observed in predatory birds, the first example of Capturing Active Pen-size Target via a Unified and Robust Eagle-like Robot (CAPTURER), is developed in this work. The CAPTURER features a whole biomimetic framework including mechanical design, onboard perception, motion planning, dynamic control, and dexterous manipulation, satisfying ARTS. This represents the fastest and most accurate vision-based grasping performance reported in the literature."
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
   #video: https://youtu.be/D7__4yyXnc8
   #link_web: https://ieeexplore.ieee.org/document/10339889
-  image: SR_SYS1.jpg
+#  image: SR_SYS1.jpg
   #image_mouseover: TRO_mini.mp4
-  authors:
-    - meng
-    - jindouo
-    - sicheng
-    - kexin
-    - xiang
-    - lei
+# authors:
+#    - meng
+#    - jindouo
+ #   - sicheng
+ #   - kexin
+ #   - xiang
+ #   - lei
 
 - id: FF
   title: "A Learning-Enhanced Control Scheme for Aerial Manipulator Under Composite Disturbances"
@@ -80,7 +80,7 @@
   # github: JIAjindou/EVOLVER
   video: https://youtu.be/4wOMj6tZSxE
   link_web: https://ieeexplore.ieee.org/document/10547187/
-  image: Prec_NN_2.jpg
+  image: prec_NN.png
   image_mouseover: Precis_NN.mp4
   equal_contri: true
   authors:
