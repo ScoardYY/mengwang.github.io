@@ -18,8 +18,8 @@
 
 - id: FF
   title: "A Learning-Enhanced Control Scheme for Aerial Manipulator Under Composite Disturbances"
-  venue: Submitted to Fundamental Research (JCR Q1 IF:6.3), 2025
-  description: "The proposed scheme combines learning-based approximation with observer-based compensation to address unknown high-order nonlinear terms in a complementary principle. Specially, based on the polynomial decomposition theorem, the unknown high-order coupling terms are decomposed into the shared state-related matrix and the parameter-related unknown vector. By resorting to the offline extracted state-related basis, an adaptive law is formulated to update the parameter-dependent vector online. Furthermore, a residual observer is adopted to address the instability problem caused by the online update process under sudden external disturbances"
+  venue: Submitted to Fundamental Research (JCR Q1 IF:6.3), Under Review, 2025
+  description: "This paper proposes a scheme that combines learning-based approximation with observer-based compensation to address unknown high-order nonlinear terms in a complementary principle."
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
   video: https://youtu.be/T_jHRlwg0e4
@@ -36,7 +36,7 @@
 - id: CorlNN
   title: "Learning-based Observer for Coupled Disturbance"
   venue: The Conference on Robot Learning (CoRL), 2025
-  description: "Different from previous disturbance estimation methods that learning coupled disturbance integrally, the decomposition-learning-estimation workflow is achieved for the first time by using Chebyshev polynomial. The primary philosophy is the refined combination of offline learning of the unchanged state-related structure and online adaption to the changing external disturbance-related part. In this way, the interpretability is ensured and the online learning burden can be significantly reduced."
+  description: "Different from previous disturbance estimation methods that learning coupled disturbance integrally, the decomposition-learning-estimation workflow is achieved for the first time by using Chebyshev polynomial. The primary philosophy is the refined combination of offline learning of the unchanged state-related structure and online adaption to the changing external disturbance-related part."
   #project_page: https://sites.google.com/view/feedbacknn
   #github: JIAjindou/Feedback-neural-network
   image: CoRLNN.jpg
@@ -62,8 +62,8 @@
   # github: JIAjindou/EVOLVER
   video: https://youtu.be/D7__4yyXnc8
   link_web: https://ieeexplore.ieee.org/document/10339889
-  image: millimeter_tro.png
-  image_mouseover: TRO_mini.mp4
+  #image: millimeter_tro.png
+  image_mouseover: tro_mini.mp4
   authors:
     - meng
     - zeshuai
@@ -75,7 +75,7 @@
 - id: precise
   title: "Precise End-Effector Control for an Aerial Manipulator Under Composite Disturbances: Theory and Experiments"
   venue: IEEE TTransactions on Automation Science and Engineering (IEEE TASE JCR Q1 IF:6.4), 2024
-  description: "In this work, a composite control scheme is constructed, which consists of the manipulator joint velocity planner and the dynamic controller. The joint velocity is generated to counteract the fluctuation of the aerial platform. Furthermore, the dynamic controller is developed to accurately track the planned joint velocity in the presence of strong coupling and model  uncertainties."
+  description: "A composite control scheme is constructed, which consists of the manipulator joint velocity planner and the dynamic controller. The joint velocity is generated to counteract the fluctuation of the aerial platform. The dynamic controller is developed to accurately track the planned joint velocity in the presence of strong coupling and model  uncertainties."
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
   video: https://youtu.be/4wOMj6tZSxE
@@ -114,7 +114,7 @@
 - id: fault
   title: "Fault Separation Based on An Excitation Operator With Application to a Quadrotor UAV"
   venue: IEEE Transactions on Aerospace and Electronic Systems (IEEE TAES JCR Q1 IF:6.4), 2024
-  description: "This article presents an excitation operator-based fault separation architecture for a quadrotor unmanned aerial vehicle subject to loss of effectiveness faults, actuator aging, and load uncertainty."
+  description: "This article presents an excitation operator-based fault separation architecture for a quadrotor subject to loss of effectiveness faults, actuator aging, and load uncertainty."
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
   # video: https://youtu.be/4wOMj6tZSxE
@@ -134,7 +134,7 @@
 - id: ICUASNN
   title: "Design of an Aerial Manipulator System Applied to Capture Missions"
   venue: International Conference on Unmanned Aircraft Systems (ICUAS), 2021
-  description: "This paper proposes the design of an aerial manipulator system for capture missions. A novel mechanical layout is designed. A 5-degree-of freedom manipulator and the battery are placed at the front and back part of a quadrotor unmanned aerial vehicle (UAV) respectively. This layout can expand the task space and minimize the shift of the center of mass. To improve the success rate of capture, inspired by the predation maneuver of birds, online trajectory generation law for capture mission is proposed. The aerial manipulator points towards its target during the flight."
+  description: "This paper proposes the design of an aerial manipulator system for capture missions."
   # project_page: https://sites.google.com/view/feedbacknn
   # github: JIAjindou/Feedback-neural-network
   video: https://www.youtube.com/watch?v=HLBBCmGPNA4
