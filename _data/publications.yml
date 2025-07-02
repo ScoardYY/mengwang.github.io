@@ -6,8 +6,8 @@
   # github: JIAjindou/EVOLVER
   #video: https://youtu.be/D7__4yyXnc8
   #link_web: https://ieeexplore.ieee.org/document/10339889
-  image: EVOLVER_fig2.png
-  image_mouseover: TRO_mini.mp4
+  image: SR_SYS1.jpg
+  #image_mouseover: TRO_mini.mp4
   authors:
     - meng
     - jindouo
@@ -24,8 +24,8 @@
   # github: JIAjindou/EVOLVER
   video: https://youtu.be/T_jHRlwg0e4
   #link_web: https://ieeexplore.ieee.org/document/10339889
-  image: EVOLVER_fig2.png
-  image_mouseover: TRO_mini.mp4
+  image: FF.jpg
+  #image_mouseover: TRO_mini.mp4
   authors:
     - meng
     - jindou
@@ -39,19 +39,20 @@
   description: "Different from previous disturbance estimation methods that learning coupled disturbance integrally, the decomposition-learning-estimation workflow is achieved for the first time by using Chebyshev polynomial. The primary philosophy is the refined combination of offline learning of the unchanged state-related structure and online adaption to the changing external disturbance-related part. In this way, the interpretability is ensured and the online learning burden can be significantly reduced."
   #project_page: https://sites.google.com/view/feedbacknn
   #github: JIAjindou/Feedback-neural-network
-  #image: feedbackNN_fig.png
+  image: CoRLNN.jpg
   # arxiv: 2410.10253
-  #link_web: https://openreview.net/forum?id=cmfyMV45XO
+  link_web: https://openreview.net/forum?id=AstoKz4ldC#discussion
+  equal_contri: true
   authors:
     - jindou
-    - zihan
     - meng
+    - zihan
+    - bin
+    - yuhang
     - kexin
-    - jianfei
     - xiang
-    - lei
-  awards:
-    - "Oral Presentation"
+  #awards:
+  #  - "Oral Presentation"
     
 - id: millimeter_tro
   title: "Millimeter-level pick and peg-in-hole task achieved by aerial manipulator"
@@ -61,7 +62,7 @@
   # github: JIAjindou/EVOLVER
   video: https://youtu.be/D7__4yyXnc8
   link_web: https://ieeexplore.ieee.org/document/10339889
-  image: EVOLVER_fig2.png
+  image: millimeter_tro.png
   image_mouseover: TRO_mini.mp4
   authors:
     - meng
@@ -79,15 +80,16 @@
   # github: JIAjindou/EVOLVER
   video: https://youtu.be/4wOMj6tZSxE
   link_web: https://ieeexplore.ieee.org/document/10547187/
-  image: EVOLVER_fig2.png
-  image_mouseover: TRO_mini.mp4
+  image: prec_NN.png
+  #image_mouseover: TRO_mini.mp4
+  equal_contri: true
   authors:
     - meng
-    - zeshuai
+    - shangke
+    - qianyuan
+    - ziqi
     - kexin
-    - xiang
-    - lei
-    - wei    
+    - xiang  
     
 - id: FeedbackNN
   title: "Feedback favors the generalization of neural ODEs"
@@ -104,6 +106,48 @@
     - meng
     - kexin
     - jianfei
+    - xiang
+    - lei
+  awards:
+    - "Oral Presentation"
+    
+- id: fault
+  title: "Fault Separation Based on An Excitation Operator With Application to a Quadrotor UAV"
+  venue: IEEE Transactions on Aerospace and Electronic Systems (IEEE TAES JCR Q1 IF:6.4), 2024
+  description: "This article presents an excitation operator-based fault separation architecture for a quadrotor unmanned aerial vehicle subject to loss of effectiveness faults, actuator aging, and load uncertainty."
+  # project_page: https://sites.google.com/view/buaa-evolver
+  # github: JIAjindou/EVOLVER
+  # video: https://youtu.be/4wOMj6tZSxE
+  link_web: https://ieeexplore.ieee.org/document/10457848
+  image: Fault_NN.jpg
+  #image_mouseover: TRO_mini.mp4
+  #equal_contri: true
+  authors:
+    - sicheng
+    - meng
+    - jindou
+    - kexin
+    - xiang
+    - youmin
+    - lei  
+
+- id: ICUASNN
+  title: "Design of an Aerial Manipulator System Applied to Capture Missions"
+  venue: International Conference on Unmanned Aircraft Systems (ICUAS), 2021
+  description: "This paper proposes the design of an aerial manipulator system for capture missions. A novel mechanical layout is designed. A 5-degree-of freedom manipulator and the battery are placed at the front and back part of a quadrotor unmanned aerial vehicle (UAV) respectively. This layout can expand the task space and minimize the shift of the center of mass. To improve the success rate of capture, inspired by the predation maneuver of birds, online trajectory generation law for capture mission is proposed. The aerial manipulator points towards its target during the flight."
+  # project_page: https://sites.google.com/view/feedbacknn
+  # github: JIAjindou/Feedback-neural-network
+  video: https://www.youtube.com/watch?v=HLBBCmGPNA4
+  image: ICUAS_NN.jpg
+  #arxiv: 2410.10253
+  link_web: https://ieeexplore.ieee.org/document/9476743
+  authors:
+    - wenyu
+    - qianyaun
+    - meng
+    - jindou
+    - shangke
+    - kexin
     - xiang
     - lei
   awards:
