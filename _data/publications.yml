@@ -1,5 +1,5 @@
 - id: SR
-  title: "Millimeter-level pick and peg-in-hole task achieved by aerial manipulator"
+  title: "CAPTURER"
   venue: Submitted to Science Robotics (JCR Q1 IF:27.5), 2025
   description: "Inspired by the astonishing hunting behavior observed in predatory birds, the first example of Capturing Active Pen-size Target via a Unified and Robust Eagle-like Robot (CAPTURER), is developed in this work. The CAPTURER features a whole biomimetic framework including mechanical design, onboard perception, motion planning, dynamic control, and dexterous manipulation, satisfying ARTS. This represents the fastest and most accurate vision-based grasping performance reported in the literature."
   # project_page: https://sites.google.com/view/buaa-evolver
