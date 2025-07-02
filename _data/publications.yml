@@ -63,7 +63,7 @@
   video: https://youtu.be/D7__4yyXnc8
   link_web: https://ieeexplore.ieee.org/document/10339889
   image: millimeter_tro.png
-  image_mouseover: Precis_NN.mp4
+  image_mouseover: tro_mini.mp4
   authors:
     - meng
     - zeshuai
@@ -81,7 +81,7 @@
   video: https://youtu.be/4wOMj6tZSxE
   link_web: https://ieeexplore.ieee.org/document/10547187/
   image: Prec_NN_2.jpg
-  #image_mouseover: Precis_NN.mp4
+  image_mouseover: Precis_NN.mp4
   equal_contri: true
   authors:
     - meng
