@@ -1,51 +1,59 @@
-- company: Outstanding graduate of Beihang University
-  dates: "2025"
-  location: Beihang, China
+#- company: Outstanding graduate of Beihang University
+#  dates: "2025"
+#  location: Beihang, China
   
-- company: Academic Excellence Fund for Doctoral Candidate
-  description: Funds, ≤1 %, Project leader
-  dates: " 2024 - 2025"
-  location: Beihang, China
+#- company: Academic Excellence Fund for Doctoral Candidate
+#  description: Funds, ≤1 %, Project leader
+#  dates: " 2024 - 2025"
+#  location: Beihang, China
 
-- company: Outstanding Research Project of Shen Yuan Honors College
-  description: Funds, Project leader
-  dates: " 2022 - 2024"
-  location: Beihang, China
+#- company: Outstanding Research Project of Shen Yuan Honors College
+#  description: Funds, Project leader
+#  dates: " 2022 - 2024"
+#  location: Beihang, China
 
-- company: 2024 ICCA Best student paper award
-  description: >-
-    Title： <i>TRACE - Trajectory refinement with control error enables safe and accurate maneuvers.</i>
-  dates: "2024"
-  location: IEEE International Conference on Control and Automation
+#- company: 2024 ICCA Best student paper award
+#  description: >-
+#    Title： <i>TRACE - Trajectory refinement with control error enables safe and accurate maneuvers.</i>
+#  dates: "2024"
+#  location: IEEE International Conference on Control and Automation
 
-- company: 2019 CAC First Prize of Outstanding Paper
-  description: >-
-    Title : <i>Dual-disturbance observers-based control of UAV subject to internal and external disturbances.</i>
-  dates: "2019"
-  location: IEEE Chinese Automation Conference
+#- company: 2019 CAC First Prize of Outstanding Paper
+#  description: >-
+#    Title : <i>Dual-disturbance observers-based control of UAV subject to internal and external disturbances.</i>
+#  dates: "2019"
+#  location: IEEE Chinese Automation Conference
 
-- company: Four-times Outstanding Academic Innovation Award  
-  dates: "2022 - 2023"
-  location: Beihang, China
 
-- company: Two-times First-class Scholarship
-  dates: "2021 - 2022"
-  location: Beihang, China
+- company: Three-times First-class Scholarship
+  dates: "2020-2025"
+  location: Beihang University, China
+  
+- company: Three-times Outstanding Student
+  dates: "2020-2025"
+  location: Beihang University, China
 
-- company: China Classification Society Scholarship
-  dates: "2017"
-  location: China Classification Society
+- company: Third prize in Mathematical Contest in Modeling
+  dates: "2020"
+  location: China
+
+- company: Freshman Scholarship
+  dates: "2020"
+  location: Beihang University, China
 
 - company: First prize in Mathematical Contest in Modeling
-  dates: "2016"
-  location: Heilongjiang Province
+  dates: "2018"
+  location: Shaanxi Province
 
 - company: First prize in the Chinese Mathematics Competitions
-  dates: "2016"
+  dates: "2018"
   location: China
 
-- company: National Scholarship
-  dates: "2016"
+- company: Three-times National Encouragement Scholarship
+  dates: "2017-2020"
   location: China
+- company: Three-times First-class  Scholarship
+  dates: "2017-2020"
+  location: Northwestern Polytechnical University, China
 
 
