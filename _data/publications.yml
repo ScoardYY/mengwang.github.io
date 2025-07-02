@@ -138,9 +138,10 @@
   # project_page: https://sites.google.com/view/feedbacknn
   # github: JIAjindou/Feedback-neural-network
   video: https://www.youtube.com/watch?v=HLBBCmGPNA4
-  image: ICUAS_NN.jpg
+  image: ICUAS_NN.png
   #arxiv: 2410.10253
   link_web: https://ieeexplore.ieee.org/document/9476743
+  image_mouseover: ICUAS_mini.mp4
   authors:
     - wenyu
     - qianyuan
