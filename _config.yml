@@ -29,10 +29,10 @@ description: >-
   The topic of my Ph.D. research is intelligent control and dexterous operation of aerial manipulator.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://jiajindou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://scoardyy.github.io/mengwang.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: # KeunhongP
 github_username: ScoardYY # keunhong
-google_scholar: 3gFYDFAAAAAJ&hl=zh-CN&oi=ao # HVZb-5oAAAAJ
+google_scholar: https://scholar.google.com/citations?user=Lu7YFHsAAAAJ&hl=zh-CN # HVZb-5oAAAAJ
 google_analytics: # G-MFWSBLRKG0
 
 # Build settings
