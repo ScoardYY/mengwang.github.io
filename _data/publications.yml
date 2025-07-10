@@ -18,7 +18,7 @@
 
 - id: FF
   title: "A Learning-Enhanced Control Scheme for Aerial Manipulator Under Composite Disturbances"
-  venue: Submitted to Fundamental Research (JCR Q1 IF:6.3), Under Review, 2025
+  venue: Submitted to Fundamental Research (JCR Q1 IF:6.3), Accepted, 2025
   description: "This paper proposes a scheme that combines learning-based approximation with observer-based compensation to address unknown high-order nonlinear terms in a complementary principle."
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
