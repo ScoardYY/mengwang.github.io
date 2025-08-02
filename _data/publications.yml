@@ -35,7 +35,7 @@
 
 - id: CorlNN
   title: "Learning-based Observer for Coupled Disturbance"
-  venue: The Conference on Robot Learning (CoRL), 2025
+  venue: The International Conference on Robotics and Automation (ICRA), 2025
   description: "Different from previous disturbance estimation methods that learning coupled disturbance integrally, the decomposition-learning-estimation workflow is achieved for the first time by using Chebyshev polynomial. The primary philosophy is the refined combination of offline learning of the unchanged state-related structure and online adaption to the changing external disturbance-related part."
   #project_page: https://sites.google.com/view/feedbacknn
   #github: JIAjindou/Feedback-neural-network
