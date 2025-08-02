@@ -6,7 +6,7 @@
   # github: JIAjindou/EVOLVER
   #video: https://youtu.be/D7__4yyXnc8
   #link_web: https://ieeexplore.ieee.org/document/10339889
-  image: SR_SYS1.jpg
+  image: SYS1.jpg
   #image_mouseover: TRO_mini.mp4
   authors:
     - meng
@@ -74,7 +74,7 @@
     
 - id: precise
   title: "Precise End-Effector Control for an Aerial Manipulator Under Composite Disturbances: Theory and Experiments"
-  venue: IEEE TTransactions on Automation Science and Engineering, vol 22, 4006-4021. (JCR Q1 IF:6.4), 2024
+  venue: IEEE TTransactions on Automation Science and Engineering, vol 22, pp 4006-4021. (JCR Q1 IF:6.4), 2024
   description: "A composite control scheme is constructed, which consists of the manipulator joint velocity planner and the dynamic controller. The joint velocity is generated to counteract the fluctuation of the aerial platform. The dynamic controller is developed to accurately track the planned joint velocity in the presence of strong coupling and model  uncertainties."
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
