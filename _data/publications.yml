@@ -1,7 +1,7 @@
 - id: SR
   title: "https://ieeexplore.ieee.org/document/10457848"
   venue: Submitted to Science Robotics (JCR Q1 IF:27.5), 2025
-  description: "Inspired by the astonishing hunting behavior observed in predatory birds, the first example of Capturing Active Pen-size Target via a Unified and Robust Eagle-like Robot (CAPTURER), is developed in this work. The CAPTURER features a whole biomimetic framework including mechanical design, onboard perception, motion planning, dynamic control, and dexterous manipulation, satisfying ARTS. This represents the fastest and most accurate vision-based grasping performance reported in the literature."
+  description: "Draw inspiration form the hunting  strategy of billions of years of evolutionary refinement, we present the first example of Capture Active Pen-size Targets via a Unified and Robust Eagle-like Robot (CAPTURER)."
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
   #video: https://youtu.be/D7__4yyXnc8
