@@ -1,10 +1,10 @@
 - id: SR
   title: "Dynamically aerial capturing with centimeter-level accuracy"
   venue: Submitted to Science Robotics (JCR Q1 IF:27.5), 2025
-  description: "Draw inspiration form the hunting  strategy of billions of years of evolutionary refinement, we present the first example of Capture Active Pen-size Targets via a Unified and Robust Eagle-like Robot (CAPTURER)."
+  description: "we have developed a groundbreaking system named CAPTURER (Capturing Active Pen-sized Target via Unified and Robust Eagle-like Robot), and we are interested in submitting our work to Science Robotics. Current aerial manipulation platforms often sacrifice interaction precision for flight agility, depend on external localization, or are limited to quasi-static conditions. In contrast, inspired by raptor morphology, CAPTURER achieves—for the first time—dynamic capture of actively moving pen-sized targets, combining high agility with exceptional precision. A comprehensive video demonstration is available in the attachment."
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
-  #video: https://youtu.be/D7__4yyXnc8
+  video: https://youtu.be/QcOrRT92BSs
   #link_web: https://ieeexplore.ieee.org/document/10339889
   image: SYS1.jpg
   #image_mouseover: TRO_mini.mp4
@@ -24,7 +24,7 @@
   # github: JIAjindou/EVOLVER
   video: https://youtu.be/T_jHRlwg0e4
   #link_web: https://ieeexplore.ieee.org/document/10339889
-  image: FF.jpg
+  image: control framework.jpg
   #image_mouseover: TRO_mini.mp4
   authors:
     - meng
@@ -39,7 +39,7 @@
   description: "Different from previous disturbance estimation methods that learning coupled disturbance integrally, the decomposition-learning-estimation workflow is achieved for the first time by using Chebyshev polynomial. The primary philosophy is the refined combination of offline learning of the unchanged state-related structure and online adaption to the changing external disturbance-related part."
   #project_page: https://sites.google.com/view/feedbacknn
   #github: JIAjindou/Feedback-neural-network
-  image: control framework.jpg
+  image: CoRLNN.jpg
   # arxiv: 2410.10253
   link_web: https://openreview.net/forum?id=AstoKz4ldC#discussion
   equal_contri: true
