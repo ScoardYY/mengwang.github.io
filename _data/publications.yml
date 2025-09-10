@@ -10,7 +10,7 @@
   #image_mouseover: TRO_mini.mp4
   authors:
     - meng
-    - jindouo
+    - jindou
     - sicheng
     - kexin
     - xiang
@@ -39,7 +39,7 @@
   description: "Different from previous disturbance estimation methods that learning coupled disturbance integrally, the decomposition-learning-estimation workflow is achieved for the first time by using Chebyshev polynomial. The primary philosophy is the refined combination of offline learning of the unchanged state-related structure and online adaption to the changing external disturbance-related part."
   #project_page: https://sites.google.com/view/feedbacknn
   #github: JIAjindou/Feedback-neural-network
-  image: CoRLNN.jpg
+  image: control framework.jpg
   # arxiv: 2410.10253
   link_web: https://openreview.net/forum?id=AstoKz4ldC#discussion
   equal_contri: true
