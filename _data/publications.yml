@@ -1,8 +1,12 @@
 - id: SR
   title: "Dynamically aerial capturing with centimeter-level accuracy"
   venue: Submitted to Science Robotics (JCR Q1 IF:27.5), 2025
-  description: "we have developed a groundbreaking system named CAPTURER (Capturing Active Pen-sized Target via Unified and Robust Eagle-like Robot), and we are interested in submitting our work to Science Robotics. Current aerial manipulation platforms often sacrifice interaction precision for flight agility, depend on external localization, or are limited to quasi-static conditions. In contrast, inspired by raptor morphology, CAPTURER achieves—for the first time—dynamic capture of actively moving pen-sized targets, combining high agility with exceptional precision. A comprehensive video demonstration is available in the attachment."
-  # project_page: https://sites.google.com/view/buaa-evolver
+  description: In this work, we have developed a groundbreaking system named CAPTURER (Capturing Active Pen-sized Target via Unified and Robust Eagle-like 
+               Robot). Current aerial manipulation platforms often sacrifice interaction precision for flight agility, depend on external localization, or are limited to quasi-static conditions. In contrast, 
+               inspired by raptor morphology, CAPTURER achieves-for the first time dynamic capture of actively moving pen-sized targets, combining high agility with exceptional 
+               precision (tolerance is less than 2.5 cm even at capturing speed exceeding 1.5 m/s).  To our knowledge, this constituting the fastest and most precise aerial interaction performance reported to date, marking a
+               significant milestone in the evolution of aerial robotics.
+  project_page: https://sites.google.com/view/capturer/%E9%A6%96%E9%A1%B5
   # github: JIAjindou/EVOLVER
   video: https://youtu.be/QcOrRT92BSs
   #link_web: https://ieeexplore.ieee.org/document/10339889
@@ -19,7 +23,7 @@
 - id: FF
   title: "A Learning-Enhanced Control Scheme for Aerial Manipulator Under Composite Disturbances"
   venue: Submitted to Fundamental Research (JCR Q1 IF:6.3), 2025
-  description: "This paper proposes a scheme that combines learning-based approximation with observer-based compensation to address unknown high-order nonlinear terms in a complementary principle."
+  description: "This paper proposes a framework that combines learning-based approximation with observer-based compensation to address composite disturbances including unknown high-order nonlinear coupling effects and external wind disturbances."
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
   video: https://youtu.be/T_jHRlwg0e4
@@ -36,7 +40,10 @@
 - id: CorlNN
   title: "Learning-based Observer for Coupled Disturbance"
   venue: Submitted to The International Conference on Robotics and Automation (ICRA), 2025
-  description: "Different from previous disturbance estimation methods that learning coupled disturbance integrally, the decomposition-learning-estimation workflow is achieved for the first time by using Chebyshev polynomial. The primary philosophy is the refined combination of offline learning of the unchanged state-related structure and online adaption to the changing external disturbance-related part."
+  description: This study introduces an effective and convergent algorithm enabling accurate estimation of the coupled disturbance via combining control and learning philosophies. 
+               Concretely, by resorting to Chebyshev series expansion, the coupled disturbance is effectively decomposed into an unknown parameter matrix and two known structures dependent on system state and external disturbance respectively. 
+               A RLS-based process is subsequently formalized to learn the parameter matrix using historical time-series data. 
+               Finally, a polynomial disturbance observer is devised to achieve a high-precision estimation of the coupled disturbance by utilizing the learned structure. 
   #project_page: https://sites.google.com/view/feedbacknn
   #github: JIAjindou/Feedback-neural-network
   image: CoRLNN.jpg
@@ -57,7 +64,9 @@
 - id: millimeter_tro
   title: "Millimeter-level pick and peg-in-hole task achieved by aerial manipulator"
   venue: IEEE Transactions on Robotics, vol 40, pp 1248-1260. (JCR Q1 IF:10.5), 2024
-  description: "Building upon the philosophy of disturbance rejection, we propose a predictive optimization scheme that allows aerial manipulator to successfully execute millimeter-level flying pick and peg-in-hole task."
+  description: Building upon the philosophy of disturbance rejection, we propose a predictive optimization scheme that allows aerial manipulator to successfully execute millimeter-level flying pick and peg-in-hole task.
+               Specially, a learning-based approach is leveraged to promptly predict the UAV platform motion by incorporating pretrained parameters.
+               On the basis of the prediction information, multiple constraints are incorporated in the controller design phase under floatingbase disturbance.
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
   video: https://youtu.be/D7__4yyXnc8
