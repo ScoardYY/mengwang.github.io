@@ -1,11 +1,10 @@
 - id: SR
   title: "Dynamically aerial capturing with centimeter-level accuracy"
   venue: Submitted to Science Robotics (JCR Q1 IF:27.5), 2025
-  description: In this work, we have developed a groundbreaking system named CAPTURER (Capturing Active Pen-sized Target via Unified and Robust Eagle-like 
-               Robot). Current aerial manipulation platforms often sacrifice interaction precision for flight agility, depend on external localization, or are limited to quasi-static conditions. In contrast, 
-               inspired by raptor morphology, CAPTURER achieves-for the first time dynamic capture of actively moving pen-sized targets, combining high agility with exceptional 
-               precision (tolerance is less than 2.5 cm even at capturing speed exceeding 1.5 m/s).  To our knowledge, this constituting the fastest and most precise aerial interaction performance reported to date, marking a
-               significant milestone in the evolution of aerial robotics.
+  description: Current aerial manipulation platforms often sacrifice interaction precision for flight agility, depend on external localization, or are limited to quasi-static conditions. 
+               In this work, we develop a groundbreaking system named CAPTURER (Capturing Active Pen-sized Target via Unified and Robust Eagle-like Robot). 
+               Inspired by raptor morphology, CAPTURER achieves-for the first time dynamic capture of actively moving pen-sized targets, combining high agility with exceptional 
+               precision. 
   project_page: https://sites.google.com/view/capturer/%E9%A6%96%E9%A1%B5
   # github: JIAjindou/EVOLVER
   video: https://youtu.be/QcOrRT92BSs
