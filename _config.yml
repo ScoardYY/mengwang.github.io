@@ -23,7 +23,7 @@ name: Meng Wang
 position: PhD student
 description: |
   I am a Ph.D. student at the School of Automation Science and Electrical Engineering, Beihang University, supervised by Prof. [Lei Guo](https://scholar.google.com/citations?user=IxO-SDwAAAAJ&hl=zh-CN), Prof. [Xiang Yu](https://scholar.google.com/citations?user=6UgtuZ8AAAAJ&hl=zh-CN&oi=ao), and Prof. [Kexin Guo](https://scholar.google.com/citations?hl=zh-CN&user=c0MaejIAAAAJ). 
-  In 2020, I received my B.Eng. in Automation from Northwestern Polytechnical University (rank first in my major) and was subsequently admitted to Beihang University.
+  In 2020, I received my B.Eng. in Automation from Northwestern Polytechnical University (rank first) and was subsequently admitted to Beihang University.
   
   Aerial robots have emerged as a pivotal component within the modern digital ecosystem, demonstrating remarkable agility and achieving milestones such as human-competitive drone racing and intelligent navigation through complex environments. 
   Nonetheless, a significant capability gap persists: the majority of these systems remain limited to passive operations, unable to perform active physical interactions—such as repairing, assembling, or manipulating objects—as envisioned in human's prospect of robots serving as workers, co-workers, and dynamic agents in logistics.
@@ -38,7 +38,7 @@ description: |
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scoardyy.github.io/mengwang.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 Email: mwbuaa001@buaa.edu.cn
-github_username: ScoardYY # keunhong
+#github_username: ScoardYY # keunhong
 google_scholar: https://scholar.google.com/citations?user=Lu7YFHsAAAAJ&hl=zh-CN # HVZb-5oAAAAJ
 ResearchGate_username: https://www.researchgate.net/profile/Meng-Wang-362?ev=hdr_xprf
 ORCID: 0000-0002-3573-2514
