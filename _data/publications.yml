@@ -1,6 +1,6 @@
 - id: SR
   title: "Dynamically aerial capturing with centimeter-level accuracy"
-  venue: Submitted to Science Robotics (JCR Q1 IF:27.5), 2025
+  venue:  Science Advances, Under Review (JCR Q1 IF:19.7), 2025
   description: Current aerial manipulation platforms often sacrifice interaction precision for flight agility, depend on external localization, or are limited to quasi-static conditions. 
                In this work, we develop a groundbreaking system named CAPTURER (Capturing Active Pen-sized Target via Unified and Robust Eagle-like Robot). 
                Inspired by raptor morphology, CAPTURER achieves-for the first time dynamic capture of actively moving pen-sized targets, combining high agility with exceptional 
@@ -21,7 +21,7 @@
 
 - id: FF
   title: "A Learning-Enhanced Control Scheme for Aerial Manipulator Under Composite Disturbances"
-  venue: Submitted to Fundamental Research (JCR Q1 IF:6.3), 2025
+  venue:  Fundamental Research, Under Review (JCR Q1 IF:6.3), 2025
   description: "This paper proposes a framework that combines learning-based approximation with observer-based compensation to address composite disturbances including unknown high-order nonlinear coupling effects and external wind disturbances."
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
@@ -38,7 +38,7 @@
 
 - id: CorlNN
   title: "Learning-based Observer for Coupled Disturbance"
-  venue: Submitted to The International Conference on Robotics and Automation (ICRA), 2025
+  venue: The International Conference on Robotics and Automation (ICRA), Under Review, 2026
   description: This study introduces an effective and convergent algorithm enabling accurate estimation of the coupled disturbance via combining control and learning philosophies. 
                Concretely, by resorting to Chebyshev series expansion, the coupled disturbance is effectively decomposed into an unknown parameter matrix and two known structures dependent on system state and external disturbance respectively. 
                A RLS-based process is subsequently formalized to learn the parameter matrix using historical time-series data. 
@@ -82,7 +82,7 @@
     
 - id: precise
   title: "Precise End-Effector Control for an Aerial Manipulator Under Composite Disturbances: Theory and Experiments"
-  venue: IEEE TTransactions on Automation Science and Engineering, vol 22, pp 4006-4021. (JCR Q1 IF:6.4), 2024
+  venue: IEEE TTransactions on Automation Science and Engineering, vol 22, pp 4006-4021. (JCR Q1 IF:6.4), 2025
   description: "A composite control scheme is constructed, which consists of the manipulator joint velocity planner and the dynamic controller. The joint velocity is generated to counteract the fluctuation of the aerial platform. The dynamic controller is developed to accurately track the planned joint velocity in the presence of strong coupling and model  uncertainties."
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
