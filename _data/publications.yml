@@ -1,6 +1,6 @@
 - id: SR
   title: "Dynamically aerial capturing with centimeter-level accuracy"
-  venue:  Science Advances, Under Review (JCR Q1 IF:19.7), 2025
+  venue:  Under Review (JCR Q1 IF:19.7), 2025
   description: Current aerial manipulation platforms often sacrifice interaction precision for flight agility, depend on external localization, or are limited to quasi-static conditions. 
                In this work, we develop a groundbreaking system named CAPTURER (Capturing Active Pen-sized Target via Unified and Robust Eagle-like Robot). 
                Inspired by raptor morphology, CAPTURER achieves-for the first time dynamic capture of actively moving pen-sized targets, combining high agility with exceptional 
@@ -21,7 +21,7 @@
 
 - id: FF
   title: "A Learning-Enhanced Control Scheme for Aerial Manipulator Under Composite Disturbances"
-  venue:  Fundamental Research, Under Review (JCR Q1 IF:6.3), 2025
+  venue:  Under Review (JCR Q1 IF:6.3), 2025
   description: "This paper proposes a framework that combines learning-based approximation with observer-based compensation to address composite disturbances including unknown high-order nonlinear coupling effects and external wind disturbances."
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
