@@ -38,7 +38,7 @@
 
 - id: CorlNN
   title: "Learning-based Observer for Coupled Disturbance"
-  venue: The International Conference on Robotics and Automation (ICRA), Under Review, 2026
+  venue: The International Conference on Robotics and Automation (ICRA), Accepted, 2026
   description: This study introduces an effective and convergent algorithm enabling accurate estimation of the coupled disturbance via combining control and learning philosophies. 
                Concretely, by resorting to Chebyshev series expansion, the coupled disturbance is effectively decomposed into an unknown parameter matrix and two known structures dependent on system state and external disturbance respectively. 
                A RLS-based process is subsequently formalized to learn the parameter matrix using historical time-series data. 
