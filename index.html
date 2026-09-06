@@ -113,8 +113,31 @@ layout: null
         </ul>
       </div>-->
 
+<h2 class="title is-3">Under Review</h2>
 
-      
+{% for publication in site.data.under_review %}
+<div class="publication-block columns">
+  <div class="column">
+    <div class="content">
+      <h3 class="publication-title">
+        <a href="{{ publication.link_web }}">{{ publication.title }}</a>
+      </h3>
+
+      <div class="publication-authors">
+        {{ publication.authors }}
+      </div>
+
+      <div class="publication-venue">
+        <span>Under Review</span>
+      </div>
+
+      <p class="publication-description">{{ publication.description }}</p>
+    </div>
+  </div>
+</div>
+{% endfor %}
+              </ul>
+      </div>-->
 
       <h2 class="title is-3">Publications</h2>
       
