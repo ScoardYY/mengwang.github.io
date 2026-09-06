@@ -1,6 +1,6 @@
 - id: SR
   title: "Dynamically aerial capturing with centimeter-level accuracy"
-  venue:  Under Review (JCR Q1 IF:19.7), 2025
+  venue:  Under Review, 2026
   description: We develop a groundbreaking system named CAPTURER (Capturing Active Pen-sized Target via Unified and Robust Eagle-like Robot). 
                Inspired by raptor morphology, CAPTURER achieves-for the first time dynamic capture of actively moving pen-sized targets, combining high agility with exceptional 
                precision. 
@@ -20,7 +20,7 @@
 
 - id: FF
   title: "A Learning-Enhanced Control Scheme for Aerial Manipulator Under Composite Disturbances"
-  venue:  Under Review (JCR Q1 IF:6.3), 2025
+  venue:  Under Review, 2025
   description: "This paper proposes a framework that combines learning-based approximation with observer-based compensation to address composite disturbances including unknown high-order nonlinear coupling effects and external wind disturbances."
   # project_page: https://sites.google.com/view/buaa-evolver
   # github: JIAjindou/EVOLVER
@@ -35,6 +35,32 @@
     - xiang
     - lei
 
+- id: npj
+  title: "Physics filtering favors the generalization of robot learning"
+  venue: npj robotics, 2026
+  description: We propose PhyFilter, which enhances both generalization and interpretability of robot learning. PhyFilter operates by correcting learning outcomes according to readily accessible physical differential structure and real-time state feedback.. 
+  #project_page: https://sites.google.com/view/feedbacknn
+  #github: JIAjindou/Feedback-neural-network
+  image: npj.jpg
+  # arxiv: 2410.10253
+  link_web: https://scoardyy.github.io/PhyFilter/
+  equal_contri: true
+  authors:
+    - jindou
+    - shixuan
+    - meng
+    - geng
+    - zihan
+    - sicheng
+    - kexin
+    - jianfei
+    - xiang
+    - wei
+    - lei
+  #awards:
+  #  - "Oral Presentation"
+
+  
 - id: ICCA
   title: "A Physics-Informed Optimization Control Allocation Strategy for Coaxial Multirotor"
   venue: International Conference on Control and Automation (ICCA), Accepted, 2026
