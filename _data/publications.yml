@@ -41,19 +41,20 @@
   description: This paper proposes a physics-informed optimization control allocation solution for coaxial multirotors. 
   #project_page: https://sites.google.com/view/feedbacknn
   #github: JIAjindou/Feedback-neural-network
-  image: CoRLNN.jpg
+  image: TestBench.jpg
   # arxiv: 2410.10253
   #link_web: https://openreview.net/forum?id=AstoKz4ldC#discussion
   #equal_contri: true
   authors:
     - meng
     - zeshuai
+    - yuxin
     - kexin
     - xiang
   #awards:
   #  - "Oral Presentation"
   
-- id: CorlNN
+- id: icra
   title: "Learning-based Observer for Coupled Disturbance"
   venue: The International Conference on Robotics and Automation (ICRA), Accepted, 2026
   description: This study introduces an effective and convergent algorithm enabling accurate estimation of the coupled disturbance via combining control and learning philosophies. 
