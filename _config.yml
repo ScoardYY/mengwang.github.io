@@ -27,7 +27,7 @@ description: |
 
   Aerial manipulators, which combine a multirotor with a multi-DoF manipulator, offer both high mobility and active manipulation capability.
   The active feature of aerial manipulator propels applications into more complicated interactive scenarios. It is not a far stretch
-  that aerial manipulator is applied to  obstacles removing,  components transporting, and  infrastructure restoring. However, aerial manipulators deployed in the real world inevitably face uncertainties caused by internal model mismatch, dynamic coupling effects, and external unmeasured disturbances.
+  that aerial manipulator is applied to  obstacles removing,  components transporting, and  infrastructure restoring.
   The topic of my Ph.D. research is intelligent control, cooperative plan, and dexterous operation of aerial manipulator.
   
  
