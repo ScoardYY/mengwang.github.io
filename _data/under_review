@@ -1,0 +1,36 @@
+- id: SR
+  title: "Dynamically aerial capturing with centimeter-level accuracy"
+  venue:  Under Review, 2026
+  description: We develop a groundbreaking system named CAPTURER (Capturing Active Pen-sized Target via Unified and Robust Eagle-like Robot). 
+               Inspired by raptor morphology, CAPTURER achieves-for the first time dynamic capture of actively moving pen-sized targets, combining high agility with exceptional 
+               precision. 
+  project_page: https://sites.google.com/view/capturer/%E9%A6%96%E9%A1%B5
+  # github: JIAjindou/EVOLVER
+  video: https://youtu.be/QcOrRT92BSs
+  #link_web: https://ieeexplore.ieee.org/document/10339889
+  image: SYS2.jpg
+  #image_mouseover: TRO_mini.mp4
+  authors:
+    - meng
+    - jindou
+    - sicheng
+    - kexin
+    - xiang
+    - lei
+
+- id: FF
+  title: "A Learning-Enhanced Control Scheme for Aerial Manipulator Under Composite Disturbances"
+  venue:  Under Review, 2025
+  description: "This paper proposes a framework that combines learning-based approximation with observer-based compensation to address composite disturbances including unknown high-order nonlinear coupling effects and external wind disturbances."
+  # project_page: https://sites.google.com/view/buaa-evolver
+  # github: JIAjindou/EVOLVER
+  video: https://youtu.be/T_jHRlwg0e4
+  #link_web: https://ieeexplore.ieee.org/document/10339889
+  image: control frameworkV2.jpg
+  #image_mouseover: TRO_mini.mp4
+  authors:
+    - meng
+    - jindou
+    - kexin
+    - xiang
+    - lei
