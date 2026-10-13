@@ -1,70 +1,21 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: Meng Wang
 name: Meng Wang
-position: PhD student
-description: |
-  I am a Ph.D. student at the School of Automation Science and Electrical Engineering, Beihang University, supervised by Prof. [Lei Guo](https://scholar.google.com/citations?user=IxO-SDwAAAAJ&hl=zh-CN), Prof. [Xiang Yu](https://scholar.google.com/citations?user=6UgtuZ8AAAAJ&hl=zh-CN&oi=ao), and Prof. [Kexin Guo](https://scholar.google.com/citations?hl=zh-CN&user=c0MaejIAAAAJ). 
-  In 2020, I received my B.Eng. in Automation from Northwestern Polytechnical University (rank first) and was subsequently admitted to Beihang University.
+description: "I am a Postdoctoral Fellow at Nanyang Technological University (NTU),
+  working with Prof. [Lihua Xie](https://scholar.google.com/citations?user=lNAYBSQAAAAJ&hl=en).
+  I received my Ph.D. from the School of Automation Science and Electrical Engineering,
+  Beihang University, supervised by Prof. [Lei Guo](https://scholar.google.com/citations?user=IxO-SDwAAAAJ&hl=zh-CN),
+  Prof. [Xiang Yu](https://scholar.google.com/citations?user=6UgtuZ8AAAAJ&hl=zh-CN&oi=ao),
+  and Prof. [Kexin Guo](https://scholar.google.com/citations?hl=zh-CN&user=c0MaejIAAAAJ).
+  I received my B.Eng. in Automation from Northwestern Polytechnical University (rank
+  first) in 2020. My research interests include intelligent control, cooperative planning,
+  dexterous operation of aerial manipulators, world model learning, and learning-for-control."
 
-  Aerial manipulators, which combine a multirotor with a multi-DoF manipulator, offer both high mobility and active manipulation capability.
-  The active feature of aerial manipulator propels applications into more complicated interactive scenarios. It is not a far stretch
-  that aerial manipulator is applied to  obstacles removing,  components transporting, and  infrastructure restoring.
-  The topic of my Ph.D. research is intelligent control, cooperative plan, and dexterous operation of aerial manipulator.
-  
- 
+email: mengwang@buaa.edu.cn
+github_username: ScoardYY
+google_scholar: Lu7YFHsAAAAJ
+google_analytics: ""
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://scoardyy.github.io/mengwang.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-Email: mwangbuaa@126.com
-#github_username: ScoardYY # keunhong
-google_scholar: https://scholar.google.com/citations?user=Lu7YFHsAAAAJ&hl=zh-CN # HVZb-5oAAAAJ
-ResearchGate_username: https://www.researchgate.net/profile/Meng-Wang-362?ev=hdr_xprf
-ORCID: 0000-0002-3573-2514
-google_analytics: # G-MFWSBLRKG0
+baseurl: "/mengwang.github.io"
+url: "https://scoardyy.github.io"
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-
-sass:
-  style: compact
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+markdown: kramdown
