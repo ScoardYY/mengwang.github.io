@@ -1,5 +1,6 @@
 - title: "Physics filtering favors the generalization of robot learning"
   image: npj.jpg
+  equal_contribution: true
   authors:
     - jindoujia
     - shixuanhan
@@ -13,9 +14,7 @@
     - weiwang
     - leiguo
   venue: "npj Robotics, 2026"
-  description: "We propose PhyFilter, which enhances both generalization and interpretability
-    of robot learning by correcting learning outcomes according to readily accessible
-    physical differential structure and real-time state feedback."
+  description: "We propose PhyFilter, which enhances both generalization and interpretability of robot learning by correcting learning outcomes according to readily accessible physical differential structure and real-time state feedback."
   link_web: "https://scoardyy.github.io/PhyFilter/"
   project_page: "https://scoardyy.github.io/PhyFilter/"
 
@@ -30,11 +29,11 @@
   venue: "International Conference on Control and Automation (ICCA), 2026"
   awards:
     - "Oral Presentation"
-  description: "This paper proposes a physics-informed optimization control allocation
-    solution for coaxial multirotors."
+  description: "This paper proposes a physics-informed optimization control allocation solution for coaxial multirotors."
 
 - title: "Learning-based Observer for Coupled Disturbance"
   image: CoRLNN.jpg
+  equal_contribution: true
   authors:
     - jindoujia
     - mengwang
@@ -46,9 +45,7 @@
   venue: "International Conference on Robotics and Automation (ICRA), 2026"
   awards:
     - "Oral Presentation"
-  description: "This study introduces an effective and convergent algorithm enabling
-    accurate estimation of coupled disturbance via combining control and learning
-    philosophies."
+  description: "This study introduces an effective and convergent algorithm enabling accurate estimation of coupled disturbance via combining control and learning philosophies."
   link_web: "https://openreview.net/forum?id=AstoKz4ldC#discussion"
 
 - title: "Millimeter-level pick and peg-in-hole task achieved by aerial manipulator"
@@ -62,15 +59,14 @@
     - leiguo
     - weiwang
   venue: "IEEE Transactions on Robotics, vol 40, pp 1248–1260 (JCR Q1, IF: 10.5), 2024"
-  description: "Building upon the philosophy of disturbance rejection, we propose
-    a predictive optimization scheme that allows aerial manipulator to successfully
-    execute millimeter-level flying pick and peg-in-hole task."
+  description: "Building upon the philosophy of disturbance rejection, we propose a predictive optimization scheme that allows aerial manipulator to successfully execute millimeter-level flying pick and peg-in-hole task."
   link_web: "https://ieeexplore.ieee.org/document/10339889"
   video: "https://youtu.be/D7__4yyXnc8"
 
 - title: "Precise End-Effector Control for an Aerial Manipulator Under Composite Disturbances: Theory and Experiments"
   image: prec_NN.png
   image_mouseover: Precis_NN.mp4
+  equal_contribution: true
   authors:
     - mengwang
     - shangkelyu
@@ -79,9 +75,7 @@
     - kexinguo
     - xiangyu
   venue: "IEEE Transactions on Automation Science and Engineering, vol 22, pp 4006–4021 (JCR Q1, IF: 6.4), 2025"
-  description: "A composite control scheme consisting of the manipulator joint velocity
-    planner and the dynamic controller is constructed to handle composite disturbances
-    in aerial manipulation."
+  description: "A composite control scheme consisting of the manipulator joint velocity planner and the dynamic controller is constructed to handle composite disturbances in aerial manipulation."
   link_web: "https://ieeexplore.ieee.org/document/10547187/"
   video: "https://youtu.be/4wOMj6tZSxE"
 
@@ -98,9 +92,7 @@
   venue: "International Conference on Learning Representations (ICLR), 2025"
   awards:
     - "Oral Presentation"
-  description: "We present feedback neural networks, showing that a feedback loop
-    can flexibly correct the learned latent dynamics of neural ordinary differential
-    equations (neural ODEs), leading to prominent generalization improvement."
+  description: "We present feedback neural networks, showing that a feedback loop can flexibly correct the learned latent dynamics of neural ordinary differential equations (neural ODEs), leading to prominent generalization improvement."
   link_web: "https://openreview.net/forum?id=cmfyMV45XO"
   project_page: "https://sites.google.com/view/feedbacknn"
   arxiv: "2410.10253"
@@ -117,9 +109,7 @@
     - youminzhang
     - leiguo
   venue: "IEEE Transactions on Aerospace and Electronic Systems, vol 60, pp 4010–4022 (JCR Q1, IF: 6.4), 2024"
-  description: "This article presents an excitation operator-based fault separation
-    architecture for a quadrotor subject to loss of effectiveness faults, actuator
-    aging, and load uncertainty."
+  description: "This article presents an excitation operator-based fault separation architecture for a quadrotor subject to loss of effectiveness faults, actuator aging, and load uncertainty."
   link_web: "https://ieeexplore.ieee.org/document/10457848"
 
 - title: "Design of an Aerial Manipulator System Applied to Capture Missions"
@@ -137,7 +127,6 @@
   venue: "International Conference on Unmanned Aircraft Systems (ICUAS), 2021"
   awards:
     - "Oral Presentation"
-  description: "This paper proposes the design of an aerial manipulator system for
-    capture missions, combining high mobility with active manipulation capability."
+  description: "This paper proposes the design of an aerial manipulator system for capture missions, combining high mobility with active manipulation capability."
   link_web: "https://ieeexplore.ieee.org/document/9476743"
   video: "https://www.youtube.com/watch?v=HLBBCmGPNA4"
