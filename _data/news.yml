@@ -7,15 +7,9 @@
 - date: "2025.12"
   description: "One paper accepted by **ICRA 2026** as Oral Presentation! (Learning-based observer for coupled disturbance)"
 
-- date: "2025.09"
-  description: "One paper accepted by **ICLR 2025** as Oral Presentation! (Feedback favors the generalization of neural ODEs)"
-
 - date: "2024.05"
   description: "Paper on precise end-effector control accepted by **IEEE Transactions on Automation Science and Engineering** (JCR Q1, IF: 6.4)!"
 
-- date: "2024.03"
-  description: "Paper on fault separation accepted by **IEEE Transactions on Aerospace and Electronic Systems** (JCR Q1, IF: 6.4)!"
-  
 - date: "2023.11"
   description: "Paper on millimeter-level aerial manipulation accepted by **IEEE Transactions on Robotics** (JCR Q1, IF: 10.5)!"
 
