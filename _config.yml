@@ -10,11 +10,11 @@ description: "I am a Postdoctoral Fellow at Nanyang Technological University (NT
   first) in 2020. My research interests include world model learning, learning-for-control, cooperative planning and dexterous operation of aerial manipulators."
 
 email: mengwang@buaa.edu.cn
-github_username: ScoardYY
+#github_username: ScoardYY
 google_scholar: Lu7YFHsAAAAJ
-google_analytics: ""
+#google_analytics: ""
 
-baseurl: "/mengwang.github.io"
-url: "https://scoardyy.github.io"
+#baseurl: "/mengwang.github.io"
+#url: "https://scoardyy.github.io"
 
 markdown: kramdown
